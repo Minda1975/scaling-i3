@@ -1,0 +1,57 @@
+Xft.dpi:       96
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.autohint:  false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+
+XTerm*faceName:         xft:UbuntuMono Nerd Font
+XTerm*faceSize:          13
+XTerm*selectToClipboard: true
+
+!UXTerm
+UXTerm*faceName: xft:UbuntuMono Nerd Font
+UXTerm*faceSize: 13
+UXTerm*dynamicColors:      true
+UXTerm*utf8:               2
+UXTerm*eightBitInput:      true
+UXTerm*saveLines:          512
+UXTerm*scrollKey:          true
+UXTerm*scrollTtyOutput:    false
+UXTerm*scrollBar:          true
+UXTerm*rightScrollBar:     true
+UXTerm*jumpScroll:         true
+UXTerm*multiScroll:        true
+UXTerm*toolBar:            false
+
+URxvt.scrollBar: false
+URxvt.font: xft:UbuntuMono Nerd Font:size=13
+ 
+*background:                           #111111
+*foreground:                            #F5F5F5
+!black
+*color0:                                        #000000
+*color8:                                        #444444
+!red
+*color1:                                        #641818
+*color9:                                        #870000
+!green
+*color2:                                        #14324d
+*color10:                                       #2e9afe
+!yellow
+*color3:                                        #4d1717
+*color11:                                       #5c1515
+!blue
+*color4:                                        #0b0b61
+*color12:                                       #000093
+!magenta
+*color5:                                        #0d3c76
+*color13:                                       #2e66ac
+!cyan
+*color6:                                        #5f87ff
+*color14:                                       #207a87
+!white
+*color7:                                        #F5F5F5
+*color15:                                       #CCCCCC
